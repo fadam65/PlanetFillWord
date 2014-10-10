@@ -1,0 +1,32 @@
+~~~~~~~~
+LOG TIME: Fri Oct 10 11:48:59 EDT 2014
+LOG MS: 1412956139519
+LOG BUILD: javac BuildFillWord.java FillWordBasic.java FillWordEvent.java FillWordEventListener.java FillWordException.java FillWordFrame.java FillWordGrows.java FillWordHelper.java FillWordTest.java IFillWord.java RandomCloneable.java
+STDERR: Note: FillWordHelper.java uses unchecked or unsafe operations.
+STDERR: Note: Recompile with -Xlint:unchecked for details.
+FILE: BuildFillWord.java: 5767
+FILE: FillWordBasic.java: 13916
+FILE: FillWordEvent.java: 1238
+FILE: FillWordEventListener.java: 657
+FILE: FillWordException.java: 1100
+FILE: FillWordFrame.java: 21970
+FILE: FillWordGrows.java: 3665
+FILE: FillWordHelper.java: 11678
+FILE: FillWordTest.java: 8021
+FILE: IFillWord.java: 6130
+FILE: RandomCloneable.java: 2268
+~~~~~~~~
+LOG TIME: Fri Oct 10 11:49:27 EDT 2014
+LOG MS: 1412956167710
+LOG TEST:
+FILE: BuildFillWord.java: 5767
+FILE: FillWordBasic.java: 13916
+FILE: FillWordEvent.java: 1238
+FILE: FillWordEventListener.java: 657
+FILE: FillWordException.java: 1100
+FILE: FillWordFrame.java: 21970
+FILE: FillWordGrows.java: 3665
+FILE: FillWordHelper.java: 11678
+FILE: FillWordTest.java: 8021
+FILE: IFillWord.java: 6130
+FILE: RandomCloneable.java: 2268

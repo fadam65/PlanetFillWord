@@ -1,0 +1,49 @@
+# This is the survey for analysis of conflicting project demands for
+# Java programming in Spring 2013. To earn 1% bonus points please
+# *completely* replace each ****** field below with a nonnegative number.
+# If you do not know or have an answer, replace ****** with XXXXXX.
+# Please do not add or take away any lines in this file.
+# This is a 2.5 week assignment. I am not counting Spring Break for this.
+
+# How many programming projects or large IT projects in courses *other*
+# than Java Programming were *handed out* in the first week of this assignment?
+1. *******
+
+# How many programming projects or large IT projects in courses *other*
+# than Java Programming were *due* in the first week of this assignment?
+2. *******
+
+# How many exams (not small quizzes) in any courses *other* than Java
+# Programming did you take in the first week of this assignment?
+# Please include non-CSC exams.
+3. *******
+
+# How many programming projects or large IT projects in courses *other*
+# than Java Programming were *handed out* in the second week of this assignment,
+# before going on spring break?
+4. *******
+
+# How many programming projects or large IT projects in courses *other*
+# than Java Programming were *due* in the second week of this assignment,
+# before going on spring break?
+5. *******
+
+# How many exams (not small quizzes) in any courses *other* than Java
+# Programming did you take in the second week of this assignment,
+# before spring break? Please include non-CSC exams.
+6. *******
+
+# How many programming projects or large IT projects in courses *other*
+# than Java Programming were *handed out* in the third week of this assignment,
+# after going on spring break?
+7. *******
+
+# How many programming projects or large IT projects in courses *other*
+# than Java Programming were *due* in the third week of this assignment,
+# after going on spring break?
+8. *******
+
+# How many exams (not small quizzes) in any courses *other* than Java
+# Programming did you take in the third week of this assignment,
+# after spring break? Please include non-CSC exams.
+9. *******
